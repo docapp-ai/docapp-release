@@ -1,11 +1,11 @@
 {
-    "version": "v0.0.1",
+    "version": "v0.1.0",
     "notes": "Your Release Notes go here",
-    "pub_date": "2024-06-22T19:25:57Z",
+    "pub_date": "2025-03-22T19:25:57Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVVQ5TE1Ob2p2aWY2RWdNYksxOXIvM2NLNHdqei8xOW12MFhEOFU5VFlyWHBZRytWMVJWUWhxRzF5YVlYKzFTQVRnTWZvUEg5TEl0M3dPSk1qMnkrRGJoOURidVY1akEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODE1OTI0CWZpbGU6QWdlbnRTa2lsbF8wLjEuMF94NjQtc2V0dXAuZXhlCmtXUU1JelowNlNhN1l6UTVkZUY5OVdOVlp6Sm5yTEpyYXQwNWZ0RVNMVitJSVBLZlBEZTVtUEVldUIrajYvYURUdEhvNERQeS85ay9DM2xRdjVabENBPT0K",
-            "url": "https://github.com/docapp-ai/docapp-release/releases/download/V1.0.0.0/AgentSkill_0.1.0_x64-setup.exe"
+            "url": "https://github.com/docapp-ai/docapp-release/releases/download/v0.1.0/AgentSkill_0.1.0_x64-setup.exe"
         }
     }
 }
