@@ -1,11 +1,15 @@
 {
-    "version": "v0.3.0",
-    "notes": "Release v0.3.0",
+    "version": "v0.4.5",
+    "notes": "Release v0.4.5",
     "pub_date": "2025-04-26T19:25:57Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVVQ5TE1Ob2p2aVFmQUhnZXJJTEhjRHRTRXBINlFxZncyMFBLWXR0U2lvaEJFNXk3eHh4OWd0WEpZSEZQbURKcmN1dnFkeE1lcnZhZUFLcUVWRkMyQTN5YkFDaFd0c3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NzIzMDQxCWZpbGU6QWdlbnRTa2lsbF8wLjMuMF94NjQtc2V0dXAuZXhlCkJsZk0yL2F5Z1dYNEVyeU5BbUlTQlFrckxqak04cEF2RGFYcis1NDhrekhnZmlseWlyMTFwUGVGRWxNYUFBWnU2eGdZRWI5YytxaDlVV0puSElFcEJnPT0K",
             "url": "https://github.com/docapp-ai/docapp-release/releases/download/v0.3.0/AgentSkill_0.3.0_x64-setup.exe"
+        },
+        "macos-x86_64": {
+            "signature": "",
+            "url": "https://github.com/docapp-ai/docapp-release/releases/download/v0.4.5/AgentSkill_0.4.5_x64-setup.dmg"
         }
     }
 }

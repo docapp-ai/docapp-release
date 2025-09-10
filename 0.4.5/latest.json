@@ -1,0 +1,19 @@
+{
+    "version": "v0.4.5",
+    "notes": "Release v0.4.5",
+    "pub_date": "2025-09-01T19:25:57Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVVQ5TE1Ob2p2aVpBM0xRTHcwd1ZpWXlQM1JJWld6VXVPamtvSytYZ1dwWWpzL2pTeDk5RnJwT1ZUcXBWcS91S0h4RkxQU283Zll5Si9SY1RsaVlkMldYcXRHWG0vMXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NDMyNTg5CWZpbGU6QWdlbnRTa2lsbF8wLjQuNV94NjQtc2V0dXAuZXhlClJTU2lGSENVZGduVW1zTFB0QWxBbUhZSVVmV1VZbzdtQ0x2SEdNakpIRlgxRVBFR3hWU0RCY29xRDZQYmFESmZDRXZmWUxXSEhsSzVPM3ltVUNrV0RRPT0K",
+            "url": "https://docapp-release.s3.us-west-2.amazonaws.com/releases/0.4.5/AgentSkill_0.4.5_x64-setup.exe"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVVQ5TE1Ob2p2aVo3dUNDdUEwRDRaUXBRWS9xN0tLb1RDUXZjRlFPZDAycTR6ZjcxcjRBeGZMYkJydzhLTjlhcUdxbkIrbURCOEhMVlZDNDdrN1lLYnBab0I5RHhSTXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NDMzMDAzCWZpbGU6QWdlbnRTa2lsbC5hcHAudGFyLmd6CnAzUWk4K1ZENDhuUGJ0a3c5a3Y1Mnd0TkFqK3BFRVNqM00wckNWL01QcElrYzRHdUROOEFrSWZnMzduRjl4dmFwTmpQdERFWlBrOFJaSlZScDBUckR3PT0K",
+            "url": "https://docapp-release.s3.us-west-2.amazonaws.com/releases/0.4.5/AgentSkill.x86_64.app.tar.gz"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVVQ5TE1Ob2p2aWNOeHh3VkcwNUZPYXpDa0cvS3ZwczZoUVZkWEZMZFFRWklpTm5TWjhUMzI0eXNTMEJYUHhDTXpjWW1ienp6TTlINDJyL1FiMWFCdzNtdVZnNGxOWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NDMyNjI2CWZpbGU6QWdlbnRTa2lsbC5hcHAudGFyLmd6Cno0Wlh3Tmg1ZVhGV2hPUkV0TGJiNEt5cUZOb0d4Um1FbmN4MUNuRDlCUnFTU2hGL0dzYmxweG5mQi8xc1IvVHZGRnBGQXJkZHRUaXR3RkloZms4VkRnPT0K",
+            "url": "https://docapp-release.s3.us-west-2.amazonaws.com/releases/0.4.5/AgentSkill.aarch64.app.tar.gz"
+        }
+    }
+}
